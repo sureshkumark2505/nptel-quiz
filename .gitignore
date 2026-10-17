@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist-ssr/
+
+# Caches and logs
+work/npm-cache/
+*.log
+.vite/
+*.tsbuildinfo
+
+# Environment and local configs
+.env.local
+.env.*.local
+*.local
+
+# Editor and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

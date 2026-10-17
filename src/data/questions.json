@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "a1q1",
+    "assignment": 1,
+    "week": 1,
+    "question": "Which of the following is included in invisible biodiversity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mountains and rivers"
+      },
+      {
+        "id": "B",
+        "text": "Genes, microbes, fungi, soil life, and ecological processes"
+      },
+      {
+        "id": "C",
+        "text": "Only large animals hidden in forests"
+      },
+      {
+        "id": "D",
+        "text": "Only plants growing below tree cover"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q2",
+    "assignment": 1,
+    "week": 1,
+    "question": "What does the term “distribution” refer to in ecology?",
+    "options": [
+      {
+        "id": "A",
+        "text": "How organisms reproduce"
+      },
+      {
+        "id": "B",
+        "text": "How organisms compete"
+      },
+      {
+        "id": "C",
+        "text": "Where organisms occur"
+      },
+      {
+        "id": "D",
+        "text": "How organisms obtain food"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q3",
+    "assignment": 1,
+    "week": 1,
+    "question": "How do wetlands contribute to water security?",
+    "options": [
+      {
+        "id": "A",
+        "text": "By increasing fossil fuel availability"
+      },
+      {
+        "id": "B",
+        "text": "By storing and filtering water"
+      },
+      {
+        "id": "C",
+        "text": "By eliminating the need for forests"
+      },
+      {
+        "id": "D",
+        "text": "By replacing all human water management"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q4",
+    "assignment": 1,
+    "week": 1,
+    "question": "Which statement best describes a habitat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A visually attractive natural location"
+      },
+      {
+        "id": "B",
+        "text": "A fixed geographical point where a species was once recorded"
+      },
+      {
+        "id": "C",
+        "text": "A place containing only physical conditions"
+      },
+      {
+        "id": "D",
+        "text": "A functionally suitable setting in which an organism can live"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q5",
+    "assignment": 1,
+    "week": 1,
+    "question": "Why is ecology not identical to environmental concern?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ecology rejects ethical thinking completely"
+      },
+      {
+        "id": "B",
+        "text": "Environmental concern is based only on laboratory experiments"
+      },
+      {
+        "id": "C",
+        "text": "Ecology deals only with non-living matter"
+      },
+      {
+        "id": "D",
+        "text": "Ecology provides scientific evidence and explanation, while concern is a social or ethical response"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q6",
+    "assignment": 1,
+    "week": 1,
+    "question": "Which of the following is an example of a community interaction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rainfall entering the soil"
+      },
+      {
+        "id": "B",
+        "text": "Temperature changing across seasons"
+      },
+      {
+        "id": "C",
+        "text": "Predation between two species"
+      },
+      {
+        "id": "D",
+        "text": "A rock weathering over time"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q7",
+    "assignment": 1,
+    "week": 1,
+    "question": "What is the biosphere?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A single habitat suitable for one species"
+      },
+      {
+        "id": "B",
+        "text": "The global sum of life and living systems"
+      },
+      {
+        "id": "C",
+        "text": "A local group of interacting populations"
+      },
+      {
+        "id": "D",
+        "text": "A laboratory model of ecological processes"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q8",
+    "assignment": 1,
+    "week": 1,
+    "question": "A community in ecology means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Populations of different species living together and interacting"
+      },
+      {
+        "id": "B",
+        "text": "Individuals of one species competing in one location"
+      },
+      {
+        "id": "C",
+        "text": "Physical conditions without living organisms"
+      },
+      {
+        "id": "D",
+        "text": "A single organism responding to environmental stress"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q9",
+    "assignment": 1,
+    "week": 1,
+    "question": "What are ecosystem services?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The benefits people obtain from ecosystems"
+      },
+      {
+        "id": "B",
+        "text": "The laws created to protect forests"
+      },
+      {
+        "id": "C",
+        "text": "The instruments used for field surveys"
+      },
+      {
+        "id": "D",
+        "text": "The number of species in an area"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a1q10",
+    "assignment": 1,
+    "week": 1,
+    "question": "At the organism level, ecology focuses on:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A single individual living being"
+      },
+      {
+        "id": "B",
+        "text": "All ecosystems on Earth"
+      },
+      {
+        "id": "C",
+        "text": "Only non-living environmental conditions"
+      },
+      {
+        "id": "D",
+        "text": "The total number of species in a biome Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q1",
+    "assignment": 2,
+    "week": 2,
+    "question": "What does functional diversity refer to?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The total market value of ecosystem products"
+      },
+      {
+        "id": "B",
+        "text": "Different species performing different ecological roles"
+      },
+      {
+        "id": "C",
+        "text": "The number of development projects in a region"
+      },
+      {
+        "id": "D",
+        "text": "The use of one indicator for multiple systems"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q2",
+    "assignment": 2,
+    "week": 2,
+    "question": "What is a trade-off in sustainability analysis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A situation where real benefits and real harms occur together"
+      },
+      {
+        "id": "B",
+        "text": "A decision that supports all three pillars equally"
+      },
+      {
+        "id": "C",
+        "text": "A case where ecological damage has no social effect"
+      },
+      {
+        "id": "D",
+        "text": "A method for avoiding evidence-based assessment"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q3",
+    "assignment": 2,
+    "week": 2,
+    "question": "What is the main role of regulating services?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reducing risks and stabilising conditions through ecological processes"
+      },
+      {
+        "id": "B",
+        "text": "Supplying only direct material goods"
+      },
+      {
+        "id": "C",
+        "text": "Replacing social indicators in development planning"
+      },
+      {
+        "id": "D",
+        "text": "Measuring ecosystem value through one composite score"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q4",
+    "assignment": 2,
+    "week": 2,
+    "question": "What does environmental sustainability primarily involve?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Protecting ecological processes, biodiversity, resources, and resilience"
+      },
+      {
+        "id": "B",
+        "text": "Increasing production without measuring ecological effects"
+      },
+      {
+        "id": "C",
+        "text": "Ensuring compensation after environmental damage"
+      },
+      {
+        "id": "D",
+        "text": "Treating nature only as a source of market products"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q5",
+    "assignment": 2,
+    "week": 2,
+    "question": "Why can wetlands be understood as natural infrastructure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They store water, slow flows, filter contaminants, and support habitat"
+      },
+      {
+        "id": "B",
+        "text": "They are empty spaces suitable for quick conversion"
+      },
+      {
+        "id": "C",
+        "text": "They only provide scenic value to nearby residents"
+      },
+      {
+        "id": "D",
+        "text": "Their services can always be fully replaced by drainage systems"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q6",
+    "assignment": 2,
+    "week": 2,
+    "question": "What helped many early societies understand environmental limits?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Direct ecological feedback from land, water, seasons, and resource use"
+      },
+      {
+        "id": "B",
+        "text": "International environmental agreements"
+      },
+      {
+        "id": "C",
+        "text": "Industrial monitoring systems"
+      },
+      {
+        "id": "D",
+        "text": "Modern composite indicators"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q7",
+    "assignment": 2,
+    "week": 2,
+    "question": "What should a good sustainability indicator do?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Count whatever is easiest to measure"
+      },
+      {
+        "id": "B",
+        "text": "Replace interpretation with numerical certainty"
+      },
+      {
+        "id": "C",
+        "text": "Ignore context to allow simple comparison"
+      },
+      {
+        "id": "D",
+        "text": "Represent important realities, be understandable, and support action"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q8",
+    "assignment": 2,
+    "week": 2,
+    "question": "What made industrialization different from earlier forms of development?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It removed the need for natural resources"
+      },
+      {
+        "id": "B",
+        "text": "It made ecological damage immediately visible everywhere"
+      },
+      {
+        "id": "C",
+        "text": "It reduced the distance between consumption and resource sources"
+      },
+      {
+        "id": "D",
+        "text": "It increased speed, scale, and distance, making damage easier to hide"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q9",
+    "assignment": 2,
+    "week": 2,
+    "question": "What does an ecological threshold indicate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A point where social benefits become impossible to measure"
+      },
+      {
+        "id": "B",
+        "text": "A market price at which ecosystem services become profitable"
+      },
+      {
+        "id": "C",
+        "text": "A limit beyond which ecological change may become unsafe or difficult to reverse"
+      },
+      {
+        "id": "D",
+        "text": "A planning method that removes uncertainty from sustainability decisions"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a2q10",
+    "assignment": 2,
+    "week": 2,
+    "question": "What does natural capital accounting emphasise?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nature should be valued only when it produces goods for markets"
+      },
+      {
+        "id": "B",
+        "text": "Forests, soils, water systems, wetlands, and biodiversity have real value"
+      },
+      {
+        "id": "C",
+        "text": "Economic decisions should ignore ecological functions"
+      },
+      {
+        "id": "D",
+        "text": "Market price always captures the full value of ecosystems Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q1",
+    "assignment": 3,
+    "week": 3,
+    "question": "Why do specialist species often decline earlier under ecological pressure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They can easily shift food and habitat use"
+      },
+      {
+        "id": "B",
+        "text": "They depend on narrow habitat, food, or breeding conditions"
+      },
+      {
+        "id": "C",
+        "text": "They reproduce faster than generalist species"
+      },
+      {
+        "id": "D",
+        "text": "They are always disturbance-tolerant"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q2",
+    "assignment": 3,
+    "week": 3,
+    "question": "What does habitat fragmentation involve?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only pollution of a single water body"
+      },
+      {
+        "id": "B",
+        "text": "Breaking a natural landscape into smaller isolated parcels within a human-dominated matrix"
+      },
+      {
+        "id": "C",
+        "text": "Complete removal of all species from a region"
+      },
+      {
+        "id": "D",
+        "text": "Natural growth of continuous forest corridors"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q3",
+    "assignment": 3,
+    "week": 3,
+    "question": "Why is soil erosion a habitat degradation problem?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It adds nutrients to all rivers"
+      },
+      {
+        "id": "B",
+        "text": "It increases topsoil depth"
+      },
+      {
+        "id": "C",
+        "text": "It removes biologically active topsoil and can cause sedimentation in aquatic habitats"
+      },
+      {
+        "id": "D",
+        "text": "It prevents all landslides permanently"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q4",
+    "assignment": 3,
+    "week": 3,
+    "question": "What are ghost nets?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nets used to protect wildlife from predators"
+      },
+      {
+        "id": "B",
+        "text": "Lost, abandoned, or discarded fishing nets that continue trapping marine life"
+      },
+      {
+        "id": "C",
+        "text": "Nets used only in freshwater farming"
+      },
+      {
+        "id": "D",
+        "text": "Natural coral structures that trap plastic"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q5",
+    "assignment": 3,
+    "week": 3,
+    "question": "Why can a renewable biological resource become effectively non-renewable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because all renewable resources stop reproducing naturally"
+      },
+      {
+        "id": "B",
+        "text": "Because legal use automatically destroys all species"
+      },
+      {
+        "id": "C",
+        "text": "Because removal may exceed the resource’s capacity to regenerate"
+      },
+      {
+        "id": "D",
+        "text": "Because only non-living resources can be harvested"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q6",
+    "assignment": 3,
+    "week": 3,
+    "question": "What is a native species?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A species introduced for human use"
+      },
+      {
+        "id": "B",
+        "text": "A species that survives only in captivity"
+      },
+      {
+        "id": "C",
+        "text": "A species that occurs naturally in a region and is part of its long-term ecological community"
+      },
+      {
+        "id": "D",
+        "text": "Any species that spreads aggressively"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q7",
+    "assignment": 3,
+    "week": 3,
+    "question": "What is the key ecological principle behind sustainable use?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Removal may exceed regeneration if demand is high"
+      },
+      {
+        "id": "B",
+        "text": "Removal must remain below regeneration capacity"
+      },
+      {
+        "id": "C",
+        "text": "Any legal extraction is sustainable"
+      },
+      {
+        "id": "D",
+        "text": "Biological renewal is unaffected by habitat quality"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q8",
+    "assignment": 3,
+    "week": 3,
+    "question": "Why is light pollution ecologically significant?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It affects only electricity consumption"
+      },
+      {
+        "id": "B",
+        "text": "It improves all nocturnal behaviour"
+      },
+      {
+        "id": "C",
+        "text": "It alters natural day-night conditions, orientation, timing, and activity patterns"
+      },
+      {
+        "id": "D",
+        "text": "It prevents all insect movement"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q9",
+    "assignment": 3,
+    "week": 3,
+    "question": "Why are energy systems described as having ecological footprints?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They require only sunlight and wind"
+      },
+      {
+        "id": "B",
+        "text": "They require land, water, materials, mines, dams, roads, drilling, or transmission infrastructure"
+      },
+      {
+        "id": "C",
+        "text": "They never cause habitat change"
+      },
+      {
+        "id": "D",
+        "text": "They affect only urban areas"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a3q10",
+    "assignment": 3,
+    "week": 3,
+    "question": "What is overexploitation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Any use of biological resources"
+      },
+      {
+        "id": "B",
+        "text": "Use of biological resources beyond their capacity to regenerate"
+      },
+      {
+        "id": "C",
+        "text": "Complete protection of all species from use"
+      },
+      {
+        "id": "D",
+        "text": "Natural increase in wildlife populations Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q1",
+    "assignment": 4,
+    "week": 4,
+    "question": "What does overexploitation mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The movement of species into new habitats"
+      },
+      {
+        "id": "B",
+        "text": "Taking biological resources faster than nature can replace them"
+      },
+      {
+        "id": "C",
+        "text": "The recycling of nutrients by decomposers"
+      },
+      {
+        "id": "D",
+        "text": "The restoration of extinct species through cloning"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q2",
+    "assignment": 4,
+    "week": 4,
+    "question": "What is the classical period used for calculating climate averages?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 years"
+      },
+      {
+        "id": "B",
+        "text": "10 years"
+      },
+      {
+        "id": "C",
+        "text": "20 years"
+      },
+      {
+        "id": "D",
+        "text": "30 years"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q3",
+    "assignment": 4,
+    "week": 4,
+    "question": "Why are specialist species especially vulnerable to climate change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They always have large home ranges"
+      },
+      {
+        "id": "B",
+        "text": "They reproduce faster than generalists"
+      },
+      {
+        "id": "C",
+        "text": "They have narrow ecological requirements and few alternatives when conditions change"
+      },
+      {
+        "id": "D",
+        "text": "They are unaffected by changes in food quality"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q4",
+    "assignment": 4,
+    "week": 4,
+    "question": "Under Shelford’s Law of Tolerance, what happens when an ecological condition falls outside an organism’s coping capacity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The population reaches its optimum level"
+      },
+      {
+        "id": "B",
+        "text": "The species immediately adapts genetically"
+      },
+      {
+        "id": "C",
+        "text": "The species shifts into its most suitable range"
+      },
+      {
+        "id": "D",
+        "text": "The population drops to zero"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q5",
+    "assignment": 4,
+    "week": 4,
+    "question": "What does the IUCN Red List category Extinct in the Wild mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The species has many stable wild populations"
+      },
+      {
+        "id": "B",
+        "text": "The species has no known individuals anywhere"
+      },
+      {
+        "id": "C",
+        "text": "The species survives only in zoos, seed banks, or other human-managed settings"
+      },
+      {
+        "id": "D",
+        "text": "The species is common but declining slowly"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q6",
+    "assignment": 4,
+    "week": 4,
+    "question": "Which set correctly identifies major climatic changes affecting biodiversity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Soil erosion, mining, hunting, and disease"
+      },
+      {
+        "id": "B",
+        "text": "Rising temperature, changing rainfall patterns, more frequent extremes, and shifting seasons"
+      },
+      {
+        "id": "C",
+        "text": "Urbanisation, overgrazing, logging, and fishing"
+      },
+      {
+        "id": "D",
+        "text": "Mutation, migration, predation, and reproduction"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q7",
+    "assignment": 4,
+    "week": 4,
+    "question": "What is genetic rescue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introducing individuals from another population to increase genetic diversity and reduce inbreeding problems"
+      },
+      {
+        "id": "B",
+        "text": "Removing all predators from a protected area"
+      },
+      {
+        "id": "C",
+        "text": "Converting a dryland into agricultural land"
+      },
+      {
+        "id": "D",
+        "text": "Increasing pollutant concentration in predators"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q8",
+    "assignment": 4,
+    "week": 4,
+    "question": "What is eutrophication?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rapid algal growth triggered by excess nutrients, leading to oxygen decline and harm to aquatic life"
+      },
+      {
+        "id": "B",
+        "text": "Movement of animals toward cooler latitudes"
+      },
+      {
+        "id": "C",
+        "text": "Recovery of forests after fire"
+      },
+      {
+        "id": "D",
+        "text": "A process of genetic rescue in small populations"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q9",
+    "assignment": 4,
+    "week": 4,
+    "question": "What does the Allee effect describe?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increased survival when nutrient runoff is high"
+      },
+      {
+        "id": "B",
+        "text": "Reduced shell-building due to seawater chemistry"
+      },
+      {
+        "id": "C",
+        "text": "Faster adaptation in fragmented landscapes"
+      },
+      {
+        "id": "D",
+        "text": "Failure of survival or reproduction when population size or density becomes too low"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a4q10",
+    "assignment": 4,
+    "week": 4,
+    "question": "In a nutrient cycle, what role do decomposers perform?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They prevent nutrients from entering food webs"
+      },
+      {
+        "id": "B",
+        "text": "They convert all nutrients into fossil fuels"
+      },
+      {
+        "id": "C",
+        "text": "They remove producers from ecosystems"
+      },
+      {
+        "id": "D",
+        "text": "They break down dead material and wastes, returning nutrients to the nutrient pool Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q1",
+    "assignment": 5,
+    "week": 5,
+    "question": "What is human–wildlife conflict?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A situation where wildlife needs or behaviour clash with human interests and lead to damage, fear, injury, loss, or retaliation"
+      },
+      {
+        "id": "B",
+        "text": "Any peaceful interaction between humans and wildlife"
+      },
+      {
+        "id": "C",
+        "text": "The presence of wildlife in a landscape without any cost"
+      },
+      {
+        "id": "D",
+        "text": "A condition where all species remain inside protected areas"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q2",
+    "assignment": 5,
+    "week": 5,
+    "question": "Why can a protected area alone fail to secure a species over time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Protected areas always reduce biodiversity"
+      },
+      {
+        "id": "B",
+        "text": "Species cannot survive inside reserves"
+      },
+      {
+        "id": "C",
+        "text": "Human activity is absent around all reserves"
+      },
+      {
+        "id": "D",
+        "text": "Many species move beyond reserves for food, water, mates, or seasonal habitat"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q3",
+    "assignment": 5,
+    "week": 5,
+    "question": "What is option value in biodiversity valuation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The value of replacing ecosystems with infrastructure"
+      },
+      {
+        "id": "B",
+        "text": "The value of using only one species now"
+      },
+      {
+        "id": "C",
+        "text": "The benefit of keeping biodiversity available for possible future uses"
+      },
+      {
+        "id": "D",
+        "text": "The cost of removing biodiversity from markets"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q4",
+    "assignment": 5,
+    "week": 5,
+    "question": "What are examples of non-timber forest products?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fruits, nuts, resins, medicinal plants, bamboo, and fibres"
+      },
+      {
+        "id": "B",
+        "text": "Roads, drains, fences, and bridges"
+      },
+      {
+        "id": "C",
+        "text": "Coal, cement, steel, and petroleum"
+      },
+      {
+        "id": "D",
+        "text": "Cars, buildings, markets, and pipelines"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q5",
+    "assignment": 5,
+    "week": 5,
+    "question": "What is microclimate regulation by vegetation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reducing heat stress by shade, lower surface temperatures, and humidity influence"
+      },
+      {
+        "id": "B",
+        "text": "Increasing heat stress by removing tree cover"
+      },
+      {
+        "id": "C",
+        "text": "Preventing all seasonal variation in climate"
+      },
+      {
+        "id": "D",
+        "text": "Replacing water regulation with pest regulation"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q6",
+    "assignment": 5,
+    "week": 5,
+    "question": "Which set represents cultural services of biodiversity?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flood control, pollination, soil structure, and carbon storage"
+      },
+      {
+        "id": "B",
+        "text": "Recreation, inspiration, education, heritage, and shared public spaces"
+      },
+      {
+        "id": "C",
+        "text": "Crop raiding, livestock loss, property damage, and fear"
+      },
+      {
+        "id": "D",
+        "text": "Compensation, insurance, fences, and early warnings"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q7",
+    "assignment": 5,
+    "week": 5,
+    "question": "What is a major limitation of fortress thinking in conservation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Not all biodiversity can be isolated from people"
+      },
+      {
+        "id": "B",
+        "text": "It gives too much importance to shared landscapes"
+      },
+      {
+        "id": "C",
+        "text": "It ignores the need for protected areas altogether"
+      },
+      {
+        "id": "D",
+        "text": "It assumes people and wildlife must always interact directly"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q8",
+    "assignment": 5,
+    "week": 5,
+    "question": "How does biodiversity help regulate water in a landscape?",
+    "options": [
+      {
+        "id": "A",
+        "text": "By stopping rainfall from entering the soil"
+      },
+      {
+        "id": "B",
+        "text": "By increasing surface runoff in simplified landscapes"
+      },
+      {
+        "id": "C",
+        "text": "By influencing infiltration, storage, and runoff through vegetation, roots, and living soils"
+      },
+      {
+        "id": "D",
+        "text": "By eliminating wetlands from human-used areas"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q9",
+    "assignment": 5,
+    "week": 5,
+    "question": "Which factor can make coexistence difficult?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perfectly equal sharing of all conservation costs"
+      },
+      {
+        "id": "B",
+        "text": "Inadequate planning of roads, settlements, farms, or infrastructure"
+      },
+      {
+        "id": "C",
+        "text": "Complete absence of ecological uncertainty"
+      },
+      {
+        "id": "D",
+        "text": "Guaranteed support from all institutions"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a5q10",
+    "assignment": 5,
+    "week": 5,
+    "question": "How can biodiversity support physical health?",
+    "options": [
+      {
+        "id": "A",
+        "text": "By increasing polluted water flow"
+      },
+      {
+        "id": "B",
+        "text": "By removing all disease risk permanently"
+      },
+      {
+        "id": "C",
+        "text": "By replacing all healthcare systems"
+      },
+      {
+        "id": "D",
+        "text": "By filtering pollutants, improving air and water quality, and supporting stable ecological regulation Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q1",
+    "assignment": 6,
+    "week": 6,
+    "question": "Which species concept defines species mainly by niche, resources, and environmental conditions used?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evolutionary species concept"
+      },
+      {
+        "id": "B",
+        "text": "Ecological species concept"
+      },
+      {
+        "id": "C",
+        "text": "Biological species concept"
+      },
+      {
+        "id": "D",
+        "text": "Morphological species concept"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q2",
+    "assignment": 6,
+    "week": 6,
+    "question": "Habitat quality depends mainly on:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Legal status alone"
+      },
+      {
+        "id": "B",
+        "text": "Whether the habitat appears on a map"
+      },
+      {
+        "id": "C",
+        "text": "Food, water, shelter, breeding sites, and low disturbance"
+      },
+      {
+        "id": "D",
+        "text": "Whether only one species is present"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q3",
+    "assignment": 6,
+    "week": 6,
+    "question": "Genetic diversity refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Variation in hereditary information among individuals and populations"
+      },
+      {
+        "id": "B",
+        "text": "Difference in species composition between two ecosystems"
+      },
+      {
+        "id": "C",
+        "text": "Number of habitats across a landscape"
+      },
+      {
+        "id": "D",
+        "text": "Number of visible traits in a field guide"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q4",
+    "assignment": 6,
+    "week": 6,
+    "question": "A biodiversity hotspot combines which three features?",
+    "options": [
+      {
+        "id": "A",
+        "text": "High rainfall, high elevation, and high productivity"
+      },
+      {
+        "id": "B",
+        "text": "High abundance, low disturbance, and uniform habitat"
+      },
+      {
+        "id": "C",
+        "text": "High genetic similarity, low endemism, and low threat"
+      },
+      {
+        "id": "D",
+        "text": "High species richness, high endemism, and significant threat"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q5",
+    "assignment": 6,
+    "week": 6,
+    "question": "Which barrier acts before fertilization?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hybrid sterility"
+      },
+      {
+        "id": "B",
+        "text": "Hybrid breakdown"
+      },
+      {
+        "id": "C",
+        "text": "Embryo inviability"
+      },
+      {
+        "id": "D",
+        "text": "Temporal isolation"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q6",
+    "assignment": 6,
+    "week": 6,
+    "question": "Allelopathy occurs when:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Animals form groups to avoid predators"
+      },
+      {
+        "id": "B",
+        "text": "One organism releases chemicals that inhibit another"
+      },
+      {
+        "id": "C",
+        "text": "Species shift upward in altitude because of warming"
+      },
+      {
+        "id": "D",
+        "text": "Adjacent populations interbreed around a barrier"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q7",
+    "assignment": 6,
+    "week": 6,
+    "question": "Gamma diversity refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diversity within one wetland"
+      },
+      {
+        "id": "B",
+        "text": "Total diversity across a larger region"
+      },
+      {
+        "id": "C",
+        "text": "Evenness of individuals among species"
+      },
+      {
+        "id": "D",
+        "text": "Fitness differences between populations"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q8",
+    "assignment": 6,
+    "week": 6,
+    "question": "What does biodiversity mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only the number of large animals in a forest"
+      },
+      {
+        "id": "B",
+        "text": "Only the number of protected areas in a landscape"
+      },
+      {
+        "id": "C",
+        "text": "Only variation in climate and soil"
+      },
+      {
+        "id": "D",
+        "text": "The variety of life within species, among species, and among ecosystems"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q9",
+    "assignment": 6,
+    "week": 6,
+    "question": "What is speciation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The seasonal movement of individuals between habitats"
+      },
+      {
+        "id": "B",
+        "text": "The increase in population size within one area"
+      },
+      {
+        "id": "C",
+        "text": "The grouping of organisms according to body colour"
+      },
+      {
+        "id": "D",
+        "text": "The splitting of one lineage into two or more independently evolving species"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a6q10",
+    "assignment": 6,
+    "week": 6,
+    "question": "Which idea best describes a species as a scientific concept?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A fixed sentence that applies equally to every organism"
+      },
+      {
+        "id": "B",
+        "text": "A category based only on visible form"
+      },
+      {
+        "id": "C",
+        "text": "A flexible tool that may emphasize interbreeding, form, ancestry, or niche"
+      },
+      {
+        "id": "D",
+        "text": "A group that must always be geographically isolated Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q1",
+    "assignment": 7,
+    "week": 7,
+    "question": "Simple random sampling gives:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Larger units a higher chance of selection"
+      },
+      {
+        "id": "B",
+        "text": "Every sampling unit an equal chance of selection"
+      },
+      {
+        "id": "C",
+        "text": "Only remote areas a chance of selection"
+      },
+      {
+        "id": "D",
+        "text": "Every kth unit after a fixed start without randomness"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q2",
+    "assignment": 7,
+    "week": 7,
+    "question": "Stratified sampling is especially useful when:",
+    "options": [
+      {
+        "id": "A",
+        "text": "The whole landscape is uniform"
+      },
+      {
+        "id": "B",
+        "text": "Animal density varies across habitat types"
+      },
+      {
+        "id": "C",
+        "text": "Complete census is always possible"
+      },
+      {
+        "id": "D",
+        "text": "Sampling units cannot be mapped"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q3",
+    "assignment": 7,
+    "week": 7,
+    "question": "Which is an example of equipment bias?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Missed detections due to low observer skill"
+      },
+      {
+        "id": "B",
+        "text": "Faulty calibration of a measuring device"
+      },
+      {
+        "id": "C",
+        "text": "Dense vegetation hiding animals"
+      },
+      {
+        "id": "D",
+        "text": "Unrealistic movement assumptions in a model"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q4",
+    "assignment": 7,
+    "week": 7,
+    "question": "Bias in wildlife monitoring means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Random scatter around a true value"
+      },
+      {
+        "id": "B",
+        "text": "Systematic deviation from the true value"
+      },
+      {
+        "id": "C",
+        "text": "Higher cost of data collection"
+      },
+      {
+        "id": "D",
+        "text": "Larger sample size than required"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q5",
+    "assignment": 7,
+    "week": 7,
+    "question": "In camera-trap based tiger estimation, individual tigers can be identified by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Herd size"
+      },
+      {
+        "id": "B",
+        "text": "Nesting banks"
+      },
+      {
+        "id": "C",
+        "text": "Unique stripe patterns"
+      },
+      {
+        "id": "D",
+        "text": "Flowering season"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q6",
+    "assignment": 7,
+    "week": 7,
+    "question": "Which pair represents losses from a population?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Natality and immigration"
+      },
+      {
+        "id": "B",
+        "text": "Births and recruitment"
+      },
+      {
+        "id": "C",
+        "text": "Mortality and emigration"
+      },
+      {
+        "id": "D",
+        "text": "Density and dispersal"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q7",
+    "assignment": 7,
+    "week": 7,
+    "question": "A population in wildlife studies is best understood as which of the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All species living in a habitat during one season"
+      },
+      {
+        "id": "B",
+        "text": "Individuals of the same species in a defined area that are capable of interbreeding"
+      },
+      {
+        "id": "C",
+        "text": "All animals counted during a field survey"
+      },
+      {
+        "id": "D",
+        "text": "Individuals of different species using the same corridor"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q8",
+    "assignment": 7,
+    "week": 7,
+    "question": "Which pair represents gains to a population?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Births and immigration"
+      },
+      {
+        "id": "B",
+        "text": "Deaths and emigration"
+      },
+      {
+        "id": "C",
+        "text": "Births and deaths"
+      },
+      {
+        "id": "D",
+        "text": "Immigration and emigration"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q9",
+    "assignment": 7,
+    "week": 7,
+    "question": "PPS sampling means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Larger sampling units receive a higher chance of selection"
+      },
+      {
+        "id": "B",
+        "text": "Every unit has the same chance regardless of size"
+      },
+      {
+        "id": "C",
+        "text": "Only point transects are used"
+      },
+      {
+        "id": "D",
+        "text": "Animals are removed after each capture"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a7q10",
+    "assignment": 7,
+    "week": 7,
+    "question": "Sampling intensity is calculated as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Total animals divided by total area"
+      },
+      {
+        "id": "B",
+        "text": "Sample units divided by total population units"
+      },
+      {
+        "id": "C",
+        "text": "Marked animals divided by recaptured animals"
+      },
+      {
+        "id": "D",
+        "text": "Detection distance divided by transect length Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q1",
+    "assignment": 8,
+    "week": 8,
+    "question": "Which statement best describes conservation genetics?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It studies only visible animal behaviour in protected areas"
+      },
+      {
+        "id": "B",
+        "text": "It replaces habitat management with captive breeding"
+      },
+      {
+        "id": "C",
+        "text": "It applies genetic tools to biodiversity protection"
+      },
+      {
+        "id": "D",
+        "text": "It measures only the age structure of populations"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q2",
+    "assignment": 8,
+    "week": 8,
+    "question": "What is allele frequency?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A fixed number of individuals in a population"
+      },
+      {
+        "id": "B",
+        "text": "A measure of animal movement across habitats"
+      },
+      {
+        "id": "C",
+        "text": "A record of all chromosomes in one cell"
+      },
+      {
+        "id": "D",
+        "text": "The proportion of a particular allele among all copies of that gene"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q3",
+    "assignment": 8,
+    "week": 8,
+    "question": "What are chromosomes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Short-term environmental pressures on wildlife"
+      },
+      {
+        "id": "B",
+        "text": "Long DNA-protein structures carrying many genes"
+      },
+      {
+        "id": "C",
+        "text": "Behavioural adaptations learned during life"
+      },
+      {
+        "id": "D",
+        "text": "Statistical outputs of viability models"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q4",
+    "assignment": 8,
+    "week": 8,
+    "question": "What does fitness mean in evolutionary terms?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Physical strength or speed alone"
+      },
+      {
+        "id": "B",
+        "text": "Relative reproductive success across generations"
+      },
+      {
+        "id": "C",
+        "text": "Ability to occupy the largest territory"
+      },
+      {
+        "id": "D",
+        "text": "Ability to avoid all competition"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q5",
+    "assignment": 8,
+    "week": 8,
+    "question": "What is the founder effect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A selection process where predators remove weak individuals"
+      },
+      {
+        "id": "B",
+        "text": "A condition where all individuals have identical chromosomes"
+      },
+      {
+        "id": "C",
+        "text": "A disease caused by increased heterozygosity"
+      },
+      {
+        "id": "D",
+        "text": "A new population starting from a few individuals and carrying only part of the original genetic diversity"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q6",
+    "assignment": 8,
+    "week": 8,
+    "question": "Which perspective asks what external pressures made a population small?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Small population paradigm"
+      },
+      {
+        "id": "B",
+        "text": "Genetic rescue model"
+      },
+      {
+        "id": "C",
+        "text": "Declining population paradigm"
+      },
+      {
+        "id": "D",
+        "text": "Outbreeding enhancement model"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q7",
+    "assignment": 8,
+    "week": 8,
+    "question": "Which inheritance pattern occurs when both alleles are fully expressed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complete dominance"
+      },
+      {
+        "id": "B",
+        "text": "Incomplete dominance"
+      },
+      {
+        "id": "C",
+        "text": "Codominance"
+      },
+      {
+        "id": "D",
+        "text": "Segregation"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q8",
+    "assignment": 8,
+    "week": 8,
+    "question": "Which statement correctly describes phenotype?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is the hidden genetic constitution of an organism"
+      },
+      {
+        "id": "B",
+        "text": "It is the observable expression of traits"
+      },
+      {
+        "id": "C",
+        "text": "It is the total genetic variation of a population"
+      },
+      {
+        "id": "D",
+        "text": "It is the location of a gene on a chromosome"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q9",
+    "assignment": 8,
+    "week": 8,
+    "question": "What is the Allee effect?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A condition where large populations always decline"
+      },
+      {
+        "id": "B",
+        "text": "A process where all mutations improve fitness"
+      },
+      {
+        "id": "C",
+        "text": "A method for calculating allele frequency"
+      },
+      {
+        "id": "D",
+        "text": "Lower survival or reproduction in very small populations because density is too low"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a8q10",
+    "assignment": 8,
+    "week": 8,
+    "question": "What is genetic rescue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A method of counting chromosomes under a microscope"
+      },
+      {
+        "id": "B",
+        "text": "Introduction of new genetic variation into small, isolated populations to reduce inbreeding depression and increase fitness"
+      },
+      {
+        "id": "C",
+        "text": "Removal of all predators from a protected area"
+      },
+      {
+        "id": "D",
+        "text": "Use of only visually rare animals for captive breeding Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q1",
+    "assignment": 9,
+    "week": 9,
+    "question": "What does infectivity mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ability of a pathogen to establish infection after exposure"
+      },
+      {
+        "id": "B",
+        "text": "Severity of disease caused after symptoms appear"
+      },
+      {
+        "id": "C",
+        "text": "Probability that a diseased animal dies"
+      },
+      {
+        "id": "D",
+        "text": "Number of carcasses found in an outbreak zone"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q2",
+    "assignment": 9,
+    "week": 9,
+    "question": "Which statement best describes wildlife health in conservation management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A fixed condition measured only by absence of visible injury"
+      },
+      {
+        "id": "B",
+        "text": "A veterinary issue unrelated to population survival"
+      },
+      {
+        "id": "C",
+        "text": "A dynamic state involving normal function at individual, population, and ecosystem levels"
+      },
+      {
+        "id": "D",
+        "text": "A measure based only on body size and population count"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q3",
+    "assignment": 9,
+    "week": 9,
+    "question": "What is a dead-end host?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A host that increases pathogen abundance"
+      },
+      {
+        "id": "B",
+        "text": "A host that becomes infected but does not sustain further transmission"
+      },
+      {
+        "id": "C",
+        "text": "A host that always acts as a biological vector"
+      },
+      {
+        "id": "D",
+        "text": "A host that supports the complete adult parasite cycle"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q4",
+    "assignment": 9,
+    "week": 9,
+    "question": "What is disease in wildlife health assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A condition that disrupts normal function and may affect behavior, physiology, reproduction, or survival"
+      },
+      {
+        "id": "B",
+        "text": "A temporary injury that always results from external trauma"
+      },
+      {
+        "id": "C",
+        "text": "A normal ecological process that never affects conservation outcomes"
+      },
+      {
+        "id": "D",
+        "text": "A population increase caused by improved habitat quality"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q5",
+    "assignment": 9,
+    "week": 9,
+    "question": "Which action is central to anthrax management in wildlife areas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Opening carcasses immediately for visual diagnosis"
+      },
+      {
+        "id": "B",
+        "text": "Careful carcass handling to reduce environmental contamination"
+      },
+      {
+        "id": "C",
+        "text": "Increasing scavenger access to remove infected remains"
+      },
+      {
+        "id": "D",
+        "text": "Moving infected carcasses to shared grazing areas"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q6",
+    "assignment": 9,
+    "week": 9,
+    "question": "Which description best fits an acute disease?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Slow onset with subtle signs over many years"
+      },
+      {
+        "id": "B",
+        "text": "Rapid onset, short duration, and possible sudden mortality events"
+      },
+      {
+        "id": "C",
+        "text": "Low disease burden with no visible population impact"
+      },
+      {
+        "id": "D",
+        "text": "Permanent genetic condition passed through inheritance only"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q7",
+    "assignment": 9,
+    "week": 9,
+    "question": "What does sporadic disease occurrence mean?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disease that persists regularly in a local reservoir"
+      },
+      {
+        "id": "B",
+        "text": "Irregular and isolated disease occurrence without a predictable pattern"
+      },
+      {
+        "id": "C",
+        "text": "Sudden mass mortality across multiple countries"
+      },
+      {
+        "id": "D",
+        "text": "Continuous spread through every susceptible host"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q8",
+    "assignment": 9,
+    "week": 9,
+    "question": "What is horizontal transmission?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transmission between individuals of the same generation"
+      },
+      {
+        "id": "B",
+        "text": "Transmission only through inherited genetic traits"
+      },
+      {
+        "id": "C",
+        "text": "Transmission only through contaminated soil"
+      },
+      {
+        "id": "D",
+        "text": "Transmission only from domestic animals to wildlife"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q9",
+    "assignment": 9,
+    "week": 9,
+    "question": "Which is an example of a precipitating factor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Old age lowering resistance over time"
+      },
+      {
+        "id": "B",
+        "text": "Strong immunity reducing spread"
+      },
+      {
+        "id": "C",
+        "text": "Migration stress triggering disease expression in already susceptible animals"
+      },
+      {
+        "id": "D",
+        "text": "Genetic diversity improving population resilience"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a9q10",
+    "assignment": 9,
+    "week": 9,
+    "question": "What does virulence describe?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Number of species living in the disease area"
+      },
+      {
+        "id": "B",
+        "text": "Proportion of animals with background immunity"
+      },
+      {
+        "id": "C",
+        "text": "Severity of disease caused by a pathogen"
+      },
+      {
+        "id": "D",
+        "text": "Amount of rainfall before an outbreak Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q1",
+    "assignment": 10,
+    "week": 10,
+    "question": "Why should captive enclosures be habitat-like?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To reduce documentation requirements"
+      },
+      {
+        "id": "B",
+        "text": "To support natural movement, behaviour, welfare, health, and breeding"
+      },
+      {
+        "id": "C",
+        "text": "To make all species follow the same diet"
+      },
+      {
+        "id": "D",
+        "text": "To avoid scientific management"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q2",
+    "assignment": 10,
+    "week": 10,
+    "question": "Why is representative sampling important in ex-situ conservation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It ensures only the best-looking individuals are collected"
+      },
+      {
+        "id": "B",
+        "text": "It helps capture genetic variation and avoid loss of alleles"
+      },
+      {
+        "id": "C",
+        "text": "It prevents the need for records"
+      },
+      {
+        "id": "D",
+        "text": "It replaces future restoration planning"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q3",
+    "assignment": 10,
+    "week": 10,
+    "question": "Why are compact or circular reserves generally preferred where feasible?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are easier to convert into zoos"
+      },
+      {
+        "id": "B",
+        "text": "They have higher edge-to-area pressure"
+      },
+      {
+        "id": "C",
+        "text": "They usually reduce edge effects and outside disturbance"
+      },
+      {
+        "id": "D",
+        "text": "They prevent natural dispersal"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q4",
+    "assignment": 10,
+    "week": 10,
+    "question": "A fragmented landscape with isolated wildlife populations mainly requires which management focus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Connectivity planning"
+      },
+      {
+        "id": "B",
+        "text": "Captive display planning"
+      },
+      {
+        "id": "C",
+        "text": "Scenic viewpoint development"
+      },
+      {
+        "id": "D",
+        "text": "Uniform fencing across all habitats"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q5",
+    "assignment": 10,
+    "week": 10,
+    "question": "Which group correctly represents protected-area categories used for in-situ conservation in India?",
+    "options": [
+      {
+        "id": "A",
+        "text": "National Park, Sanctuary, Conservation Reserve, and Community Reserve"
+      },
+      {
+        "id": "B",
+        "text": "Zoo, aquarium, seed bank, and cryobank"
+      },
+      {
+        "id": "C",
+        "text": "Arboretum, bambusetum, gene bank, and rescue centre"
+      },
+      {
+        "id": "D",
+        "text": "Nursery, enclosure, corridor map, and field camp"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q6",
+    "assignment": 10,
+    "week": 10,
+    "question": "Pollination, seed dispersal, predation, decomposition, and nutrient cycling are important because they represent which aspect of biodiversity management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revenue generation"
+      },
+      {
+        "id": "B",
+        "text": "Boundary demarcation"
+      },
+      {
+        "id": "C",
+        "text": "Ecological function"
+      },
+      {
+        "id": "D",
+        "text": "Species display"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q7",
+    "assignment": 10,
+    "week": 10,
+    "question": "What does ex-situ conservation involve?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maintaining species only through community grazing systems"
+      },
+      {
+        "id": "B",
+        "text": "Protecting species only by expanding natural corridors"
+      },
+      {
+        "id": "C",
+        "text": "Preventing all movement of species between facilities"
+      },
+      {
+        "id": "D",
+        "text": "Moving species or genetic material to designated facilities outside natural habitats"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q8",
+    "assignment": 10,
+    "week": 10,
+    "question": "Why can reserved forests be strategically useful for faster sanctuary notification?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They require no ecological significance"
+      },
+      {
+        "id": "B",
+        "text": "They are automatically free from all human use"
+      },
+      {
+        "id": "C",
+        "text": "They are suitable only for ex-situ conservation"
+      },
+      {
+        "id": "D",
+        "text": "Their land status, boundaries, records, and rights position are often already well structured or documented"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q9",
+    "assignment": 10,
+    "week": 10,
+    "question": "What is the main function of studbooks in conservation breeding?",
+    "options": [
+      {
+        "id": "A",
+        "text": "They record ancestry, births, deaths, transfers, and breeding history to guide management"
+      },
+      {
+        "id": "B",
+        "text": "They replace veterinary care"
+      },
+      {
+        "id": "C",
+        "text": "They identify tourist routes inside zoos"
+      },
+      {
+        "id": "D",
+        "text": "They eliminate the need for genetic diversity"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a10q10",
+    "assignment": 10,
+    "week": 10,
+    "question": "Why is ex-situ conservation described as an insurance strategy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It guarantees automatic reintroduction success"
+      },
+      {
+        "id": "B",
+        "text": "It prevents immediate extinction in high-risk cases and preserves individuals or genetic material outside threatened habitats"
+      },
+      {
+        "id": "C",
+        "text": "It removes the need for genetic management"
+      },
+      {
+        "id": "D",
+        "text": "It works best when habitat loss continues unchecked Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q1",
+    "assignment": 11,
+    "week": 11,
+    "question": "What is the main purpose of PIT tags?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To sedate animals during transport"
+      },
+      {
+        "id": "B",
+        "text": "To create artificial movement routes"
+      },
+      {
+        "id": "C",
+        "text": "To prevent conflict with livestock"
+      },
+      {
+        "id": "D",
+        "text": "To allow long-term individual identification"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q2",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which practice is appropriate while physically handling small reptiles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Holding only the tail to restrict movement"
+      },
+      {
+        "id": "B",
+        "text": "Supporting the body and avoiding squeezing"
+      },
+      {
+        "id": "C",
+        "text": "Keeping the animal exposed to heat for long periods"
+      },
+      {
+        "id": "D",
+        "text": "Applying pressure to the abdomen for control"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q3",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which statement reflects the central caution in habitat management?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fire and grazing always damage habitats"
+      },
+      {
+        "id": "B",
+        "text": "Water provisioning is always beneficial"
+      },
+      {
+        "id": "C",
+        "text": "Management tools can help or harm depending on timing, intensity, location, and monitoring"
+      },
+      {
+        "id": "D",
+        "text": "Plantation is automatically equal to restoration"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q4",
+    "assignment": 11,
+    "week": 11,
+    "question": "When is a jab stick most suitable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "When the animal is distant and hidden in dense vegetation"
+      },
+      {
+        "id": "B",
+        "text": "When the animal is approachable, confined, or partially restrained"
+      },
+      {
+        "id": "C",
+        "text": "When no trained personnel are available"
+      },
+      {
+        "id": "D",
+        "text": "When the animal must be monitored from the air"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q5",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which type of wildfire burns treetops and can spread rapidly?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ground fire"
+      },
+      {
+        "id": "B",
+        "text": "Surface fire"
+      },
+      {
+        "id": "C",
+        "text": "Crown fire"
+      },
+      {
+        "id": "D",
+        "text": "Prescribed fire"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q6",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which form of restraint is based on training, conditioning, or desensitisation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Behavioural restraint"
+      },
+      {
+        "id": "B",
+        "text": "Physical restraint"
+      },
+      {
+        "id": "C",
+        "text": "Chemical restraint"
+      },
+      {
+        "id": "D",
+        "text": "Mechanical restraint"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q7",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which form of restraint uses cages, traps, poles, nets, or chutes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chemical restraint"
+      },
+      {
+        "id": "B",
+        "text": "Behavioural restraint"
+      },
+      {
+        "id": "C",
+        "text": "Physical restraint"
+      },
+      {
+        "id": "D",
+        "text": "Mechanical restraint"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q8",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which statement best describes a Ketch-All pole?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It is used to create long-term animal enclosures"
+      },
+      {
+        "id": "B",
+        "text": "It is a device for measuring animal temperature"
+      },
+      {
+        "id": "C",
+        "text": "It provides short-distance control while keeping handlers away"
+      },
+      {
+        "id": "D",
+        "text": "It is used to guide animals into pitfall traps"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q9",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which drug group immobilises animals through paralysis of voluntary muscles without providing sedation or analgesia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CNS depressants"
+      },
+      {
+        "id": "B",
+        "text": "Tranquillisers"
+      },
+      {
+        "id": "C",
+        "text": "Dissociatives"
+      },
+      {
+        "id": "D",
+        "text": "Neuromuscular blockers"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a11q10",
+    "assignment": 11,
+    "week": 11,
+    "question": "Which is a physical effect of wildfire?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Endocrine disruption"
+      },
+      {
+        "id": "B",
+        "text": "Hydrophobic soil reducing infiltration and increasing runoff"
+      },
+      {
+        "id": "C",
+        "text": "Dart leakage during immobilisation"
+      },
+      {
+        "id": "D",
+        "text": "Formation of ghost nets Biodiversity for Sustainability"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q1",
+    "assignment": 12,
+    "week": 12,
+    "question": "What should fences do in wildlife-road mitigation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Block all animal movement permanently"
+      },
+      {
+        "id": "B",
+        "text": "Guide animals toward safe crossing structures"
+      },
+      {
+        "id": "C",
+        "text": "Increase vehicle speed near hotspots"
+      },
+      {
+        "id": "D",
+        "text": "Replace monitoring after construction"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q2",
+    "assignment": 12,
+    "week": 12,
+    "question": "Which of the following is an example of linear infrastructure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wetland food web"
+      },
+      {
+        "id": "B",
+        "text": "Railway"
+      },
+      {
+        "id": "C",
+        "text": "Tiger population"
+      },
+      {
+        "id": "D",
+        "text": "Carbon stock"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q3",
+    "assignment": 12,
+    "week": 12,
+    "question": "What is the barrier effect of a road?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A road becomes wider after repeated use"
+      },
+      {
+        "id": "B",
+        "text": "Animals are attracted to vegetation along road edges"
+      },
+      {
+        "id": "C",
+        "text": "Animals avoid crossing, reducing movement between habitat areas"
+      },
+      {
+        "id": "D",
+        "text": "Roadside soil becomes more fertile due to runoff"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q4",
+    "assignment": 12,
+    "week": 12,
+    "question": "What is Total Economic Value designed to capture?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only direct market income from biodiversity"
+      },
+      {
+        "id": "B",
+        "text": "Only tourism earnings from protected areas"
+      },
+      {
+        "id": "C",
+        "text": "Both use and non-use values"
+      },
+      {
+        "id": "D",
+        "text": "Only the cost of artificial habitat restoration"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q5",
+    "assignment": 12,
+    "week": 12,
+    "question": "Which valuation method uses surveys to ask willingness to pay for conservation?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Market price method"
+      },
+      {
+        "id": "B",
+        "text": "Benefits transfer method"
+      },
+      {
+        "id": "C",
+        "text": "Contingent valuation method"
+      },
+      {
+        "id": "D",
+        "text": "Damage cost avoided method"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q6",
+    "assignment": 12,
+    "week": 12,
+    "question": "What is linear infrastructure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Facilities that extend as lines across landscapes"
+      },
+      {
+        "id": "B",
+        "text": "A protected-area zoning system based on circles"
+      },
+      {
+        "id": "C",
+        "text": "A method for valuing non-use benefits"
+      },
+      {
+        "id": "D",
+        "text": "A seasonal migration pattern of animals"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q7",
+    "assignment": 12,
+    "week": 12,
+    "question": "What is an oil spill?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A gradual increase in salt concentration in coastal water"
+      },
+      {
+        "id": "B",
+        "text": "The release of liquid petroleum hydrocarbons into the environment"
+      },
+      {
+        "id": "C",
+        "text": "The natural movement of sediments along a shoreline"
+      },
+      {
+        "id": "D",
+        "text": "The biological decay of organic matter in wetlands"
+      }
+    ],
+    "correctOptionId": "B",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q8",
+    "assignment": 12,
+    "week": 12,
+    "question": "Which structure is designed for arboreal mammals and some reptiles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Canopy bridge"
+      },
+      {
+        "id": "B",
+        "text": "In-situ burn area"
+      },
+      {
+        "id": "C",
+        "text": "Skimmer channel"
+      },
+      {
+        "id": "D",
+        "text": "Benefits-transfer site"
+      }
+    ],
+    "correctOptionId": "A",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q9",
+    "assignment": 12,
+    "week": 12,
+    "question": "Which mitigation hierarchy step means keeping infrastructure away from critical habitat where possible?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Restore"
+      },
+      {
+        "id": "B",
+        "text": "Offset"
+      },
+      {
+        "id": "C",
+        "text": "Minimise"
+      },
+      {
+        "id": "D",
+        "text": "Avoid"
+      }
+    ],
+    "correctOptionId": "D",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  },
+  {
+    "id": "a12q10",
+    "assignment": 12,
+    "week": 12,
+    "question": "Which compounds are especially associated with toxicity in petroleum oil?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biogenic sugars"
+      },
+      {
+        "id": "B",
+        "text": "Pyrogenic salts"
+      },
+      {
+        "id": "C",
+        "text": "Aromatic hydrocarbons, especially PAHs"
+      },
+      {
+        "id": "D",
+        "text": "Soil nutrients"
+      }
+    ],
+    "correctOptionId": "C",
+    "answerSource": "inferred",
+    "explanation": "Answer inferred from the question wording; the source PDF does not provide a marked official answer key."
+  }
+]
